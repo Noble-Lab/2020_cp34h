@@ -2,7 +2,7 @@
 Supercooled, subzero, high salinity incubations of Cp34H reveal long-term mitigation strategies and detectable (peptide) biomarkers for life on other icy worlds
 
 
-Miranda Mudge1, Erin Firth3, Kianna Hales2, Marcela Ewert3, William E. Fondrie2, William S. Noble2,6, Bonnie Light3, Jonathan Toner5, Brook L. Nunn2,4* Karen A. Junge3
+Miranda Mudge<sup>1</sup>, Erin Firth3, Kianna Hales2, Marcela Ewert3, William E. Fondrie2, William S. Noble2,6, Bonnie Light3, Jonathan Toner5, Brook L. Nunn2,4* Karen A. Junge3
 
 
 1University of Washington, Department of Molecular and Cellular Biology, Seattle, WA
